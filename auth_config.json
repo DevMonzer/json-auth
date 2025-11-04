@@ -2,6 +2,12 @@
   "expected_org_name": "second advance medical copany",
   "expected_org_code": "400418",
   "authorized_users": [
+    { "name": "Sultan Arfaj", "email": "s.arfaj@adv2-medical.com" },
     { "name": "Monzer", "email": "dev.monzer@gmail.com" },
+    { "name": "Jamaluddin", "email": "operation.samco2@gmail.com" },
+    { "name": "Jamal Ali", "email": "gamalmo1970@gmail.com" },
+    { "name": "Info Adv-Medical", "email": "Info@adv2-medical.com" },
+    { "name": "Abdallah", "email": "acc.abdullah@adv2-medical.com" },
+    { "name": "Abdalla", "email": "abdallaidres38@gmail.com" }
   ]
 }
