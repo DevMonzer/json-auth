@@ -3,7 +3,7 @@
   "expected_org_code": "400418",
   "authorized_users": [
     { "name": "Sultan Arfaj", "email": "s.arfaj@adv2-medical.com" },
-    { "name": "Monzer", "email": "dev.monzer@gmail.com" },
+    { "name": "Monzer", "email": "devmonzer@gmail.com" },
     { "name": "Jamaluddin", "email": "operation.samco2@gmail.com" },
     { "name": "Jamal Ali", "email": "gamalmo1970@gmail.com" },
     { "name": "Info Adv-Medical", "email": "Info@adv2-medical.com" },
